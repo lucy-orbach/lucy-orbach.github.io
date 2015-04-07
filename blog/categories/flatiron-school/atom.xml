@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Flatiron&nbsp;school | Keep Calm and Code On]]></title>
+  <link href="http://lucy-orbach.github.io/blog/categories/flatiron-school/atom.xml" rel="self"/>
+  <link href="http://lucy-orbach.github.io/"/>
+  <updated>2015-04-07T01:49:00-04:00</updated>
+  <id>http://lucy-orbach.github.io/</id>
+  <author>
+    <name><![CDATA[Lucy J Orbach]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Post on Octopress]]></title>
+    <link href="http://lucy-orbach.github.io/blog/2015/04/07/my-first-post-on-octopress/"/>
+    <updated>2015-04-07T01:45:01-04:00</updated>
+    <id>http://lucy-orbach.github.io/blog/2015/04/07/my-first-post-on-octopress</id>
+    <content type="html"><![CDATA[<p>&ldquo;Hello World!&rdquo;</p>
+]]></content>
+  </entry>
+  
+</feed>
