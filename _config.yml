@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Keep Calm and Code On
+subtitle: a visualization blog for new hackers.
+author: Lucy J Orbach
 simple_search: https://www.google.com/search
-description:
+description: A blog about the process of understanding how to code
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
