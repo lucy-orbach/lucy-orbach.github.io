@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://lucy-orbach.github.io/blog/2015/04/08/The-World-of-Class-and-Objects/</loc>
+    <lastmod>2015-04-08T22:02:12-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://lucy-orbach.github.io/blog/2015/04/07/my-first-post-on-octopress/</loc>
     <lastmod>2015-04-07T01:45:01-04:00</lastmod>
   </url>
   <url>
     <loc>http://lucy-orbach.github.io/blog/archives/</loc>
+  </url>
+  <url>
+    <loc>http://lucy-orbach.github.io/archives/</loc>
+  </url>
+  <url>
+    <loc>http://lucy-orbach.github.io/blog/</loc>
   </url>
   <url>
     <loc>http://lucy-orbach.github.io/</loc>
